@@ -28,8 +28,8 @@ I'm a passionate developer specializing in Java Spring Boot and Python, creating
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yukaz0&show_icons=true&theme=radical)
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-Profile-URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Your-LinkedIn-Profile-URL](https://www.linkedin.com/in/muhammad-jafar-i-5b0062130/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaffrhere23@gmail.com)
 
 ## 💡 Quick Facts
 - 🌱 Always learning and exploring new technologies
