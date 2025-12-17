@@ -1,40 +1,29 @@
-# Hi there! I'm Yukaz0 👋
+# Yukaz0
 
-## 🚀 About Me
-I'm a passionate developer specializing in Java Spring Boot and Python, creating robust and efficient software solutions.
+**Software Developer | Java Spring Boot & Python**
 
-## 🛠️ Technologies & Tools
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Passionate about clean code, efficient solutions, and exploring new technologies. Open to collaboration on interesting projects.
 
-### Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+## Tech Stack
 
-## 🌟 My Projects
-- 🏗️ Java Spring Boot Projects
-  - Enterprise-level web applications
-  - Microservices architectures
-  - RESTful API development
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, Python |
+| **Frameworks** | Spring Boot, Django, Flask |
 
-- 🐍 Python Projects
-  - Data analysis and visualization
-  - Machine learning solutions
-  - Automation scripts
+## Project Experience
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yukaz0&show_icons=true&theme=radical)
+**Java Ecosystem**
+* Building enterprise-level web applications.
+* Designing Microservices architectures.
+* Developing RESTful APIs.
 
-## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Your-LinkedIn-Profile-URL](https://www.linkedin.com/in/muhammad-jafar-i-5b0062130/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaffrhere23@gmail.com)
+**Python Ecosystem**
+* Data analysis and visualization.
+* Implementing Machine Learning solutions.
+* Creating automation scripts.
 
-## 💡 Quick Facts
-- 🌱 Always learning and exploring new technologies
-- 💻 Open to collaboration on interesting projects
-- 🎯 Passionate about clean code and efficient solutions
+## Get in Touch
 
----
-*Continuously improving, one line of code at a time* 🚀
+* **LinkedIn:** [Muhammad Jafar I](https://www.linkedin.com/in/muhammad-jafar-i-5b0062130/)
+* **Email:** jaffrhere23@gmail.com
